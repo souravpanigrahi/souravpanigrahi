@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="souravpanigrahi" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **Java Script**
 
 - 📫 How to reach me **spanigrahi.sourav@gmail.com**
 
